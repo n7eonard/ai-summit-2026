@@ -33,6 +33,31 @@ half-finished thoughts left unmarked, and unresolved items go in
   Most obvious ideas were already had in April; several were tried and dropped for reasons
   worth knowing before re-proposing them
 
+## The relevance filter — apply before adding anything
+
+The talk has one claim: **when anyone can build, the person who decides what to build becomes
+the bottleneck.** The speaker's vantage is that he lived both halves at once — twelve years of
+product management where deciding and building were separated, then seven months as a solo
+product builder where they collapsed into one person. Judge and party.
+
+Before anything enters this repository, it must answer:
+
+> **Does this illuminate what happens when deciding and building collapse into the same
+> person — and what to do about it?**
+
+The talk delivers three things and nothing else: **the observation**, **concrete situations
+the speaker was actually in**, and **paths forward — what he tried, what worked, what didn't.**
+
+**What that rules out.** The underlying mission produced a great deal of good product work
+that fails the test: data-quality pivots, evaluation systems, convergence engines, handover
+plans. It is real and it is out of scope. A private mission retrospective exists and is far
+richer than this repo — **most of it does not belong here.** On 2026-08-24 a large amount of
+it was imported and then cut back the same day; don't repeat that.
+
+The test for material from that retrospective: *would this still be true and interesting if
+the mission had been in a different industry solving a different problem?* If not, it's mission
+detail, not talk material.
+
 ## House rules
 
 **Never put a number on a slide without a row in the claims ledger.**

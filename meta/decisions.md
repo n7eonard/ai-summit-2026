@@ -4,6 +4,33 @@ Choices made while building this library, and why. New entries go on top.
 
 ---
 
+## 2026-08-24 (late) — A relevance filter, after importing the wrong thing
+
+**What went wrong.** The mission retrospective was found and treated as a source to mine
+rather than a source to filter. Its own criterion is *what happened on this mission*; the
+talk's is *what does this say about deciding and building collapsing into one person*. A
+large amount of product-operational detail — a data-quality pivot, a convergence engine,
+evaluation systems, handover preparation — was written into the repo. All true. None of it
+serves the claim.
+
+**The filter is now stated in [`../AGENTS.md`](../AGENTS.md)** and applied. Test for anything
+coming from that retrospective: *would this still be true and interesting if the mission had
+been in a different industry solving a different problem?* If not, it is mission detail.
+
+**[`../docs/case-study.md`](../docs/case-study.md) was rewritten** around the actual vantage —
+judge and party — and organised as five situations plus what worked and what didn't, which is
+the shape the talk delivers. The mission-operational material was cut, not moved: it already
+exists in the private retrospective.
+
+**A gap the import concealed:** the repo documents only the seven months. The twelve years of
+product management — the separated version the talk is contrasting against — are nowhere.
+That is half the vantage and only the speaker has it. → Q24.
+
+**Also opened:** honest doubt about whether Shift 4 still belongs, since it is the one that
+doesn't connect to the collapse. → Q25.
+
+---
+
 ## 2026-08-24 — Working sessions continue in Grok
 
 The library was bootstrapped in Claude Code. From this point, preparation continues in Grok

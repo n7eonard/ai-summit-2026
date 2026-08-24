@@ -14,6 +14,47 @@ retrospective.** Start there.
 
 ## 🔴 Blocking
 
+### Q24 — Half the vantage is undocumented: the twelve years of product management
+
+The talk's authority rests on **two** experiences, not one: twelve years doing product
+management where deciding and building were separated by other people, meetings and time —
+and then seven months where they collapsed into one person.
+
+**This repository contains only the seven months.** Everything here is the collapsed version.
+Nothing documents what it collapsed *from*, which is the half that turns a personal story into
+a claim about the industry — and the half that answers the "n=1" objection.
+
+Only the speaker can supply it. What's needed is not a CV; it's **the contrast, in concrete
+terms**:
+
+- What used to force the deciding work to happen? Which meetings, artefacts or people made it
+  unskippable — and which of them still exist?
+- A situation from those years where the separation *saved* a project — where someone whose job
+  was not building said "this is wrong" and was heard.
+- What the PM-to-engineering ratio looked like then, in a team you actually ran.
+- The thing you did routinely in 2018 that nobody has time for now.
+
+**Why it's blocking.** Without it, Act 2 is one freelancer's bad quarter. With it, it's a
+practitioner of twelve years reporting what changed. It also softens Q17 — "~60% first-person"
+is far less of a problem when the first person carries two decades of vantage rather than one
+mission.
+
+### Q25 — Does Shift 4 still belong?
+
+Honest doubt, raised by the relevance filter in [`AGENTS.md`](../AGENTS.md).
+
+*Freeze the surface so people can build habits* is true and useful, but it is **change
+management** — about users absorbing change, not about deciding and building collapsing into
+one person. It's the shift furthest from the talk's claim, and the only one that would sit just
+as well in a talk about something else.
+
+Shifts 1 and 3 are the thesis. Shift 2 earns its place through the judge-and-party link —
+nobody is positioned to disbelieve the builder's enthusiasm. Shift 4 has no such link yet.
+
+**Options:** state the link explicitly — *when you're both roles you ship changes at
+build-speed and nobody is watching the human absorption rate* — or drop it and give the time to
+Q24's material, which is load-bearing. **The speaker's call, not mine.**
+
 ### Q18 — The mission was seven months, not three
 
 The REX covers **January to July 2026**. The deck and the submitted abstract both say
