@@ -7,9 +7,16 @@ Choices made while building this library, and why. New entries go on top.
 ## 2026-08-24 — Working sessions continue in Grok
 
 The library was bootstrapped in Claude Code. From this point, preparation continues in Grok
-against the same remote (`n7eonard/ai-summit-2026`), with the same house rules. The working
-notes now live in both [`AGENTS.md`](../AGENTS.md) and [`CLAUDE.md`](../CLAUDE.md) so either
-tool can pick the repo up.
+against the same remote (`n7eonard/ai-summit-2026`), with the same house rules.
+
+**[`AGENTS.md`](../AGENTS.md) is the single source of the working notes.** It was briefly
+duplicated into `CLAUDE.md` with a "keep them in sync" rule; that lasted less than a day
+before the two drifted — one file gained a pointer and a stale line survived in the other.
+Duplicated house rules drift, and they drift silently, which is the worst way for a rule to
+fail. [`CLAUDE.md`](../CLAUDE.md) is now a pointer with no content of its own, kept only so a
+Claude Code session landing here still picks up the rules automatically.
+
+Same principle for anything added later: point at `AGENTS.md`, don't copy it.
 
 Nothing about the argument, the evidence bar, or the anonymisation policy changes.
 

@@ -28,7 +28,7 @@ moved and nobody has said so out loud → go straight to
 if you don't make it. Start with the one you recognise.
 
 **You're helping prepare the talk** (including future AI sessions) → start with
-[`AGENTS.md`](AGENTS.md) (or [`CLAUDE.md`](CLAUDE.md) — same notes) and
+[`AGENTS.md`](AGENTS.md) and
 [`meta/open-questions.md`](meta/open-questions.md).
 
 ## The argument, in five lines
