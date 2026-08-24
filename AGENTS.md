@@ -22,10 +22,13 @@ half-finished thoughts left unmarked, and unresolved items go in
 
 - [`docs/thesis.md`](docs/thesis.md) — the argument and its weak points
 - [`meta/open-questions.md`](meta/open-questions.md) — what's unresolved, **read before
-  proposing anything**
+  proposing anything**; Q16 and Q17 are April warnings that were never acted on
 - [`meta/decisions.md`](meta/decisions.md) — what was already decided and why
 - [`meta/history.md`](meta/history.md) — what the talk used to be. **Read before proposing a
   structural change**: a different set of four shifts was already tried and replaced
+- [`meta/origin-april-2026.md`](meta/origin-april-2026.md) — the origin conversation in full.
+  Most obvious ideas were already had in April; several were tried and dropped for reasons
+  worth knowing before re-proposing them
 
 ## House rules
 
