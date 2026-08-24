@@ -76,6 +76,10 @@ for the speaker — never gets filled in plausibly.
 **Language:** repo content in English (international audience). Working conversation with
 Nicolas in French.
 
+**Commit attribution.** From 2026-08-24, live working sessions are Grok. Commits carry
+`Co-Authored-By: Grok 4.6 <noreply@x.ai>`. Do not add a GitHub user named `grok` as a
+collaborator — that account is unrelated.
+
 ## Related context outside this repo
 
 - Live deck: [Google Slides](https://docs.google.com/presentation/d/1LzHwT3HQxIEUMPMVrdSHSM9IEgZSnEJbucncsGTUwKc/edit)
