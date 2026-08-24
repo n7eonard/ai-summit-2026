@@ -3,9 +3,8 @@
 Context for anyone — human or model — picking up work on this repository.
 
 From **2026-08-24**, live working sessions continue in **Grok**, and **this file is the single
-source of the working notes.** [`CLAUDE.md`](CLAUDE.md) is a pointer to it and holds no content
-of its own — edit here, never there. Any other agent-facing file added later should point here
-too rather than copy this one; two copies of house rules drift, and the drift is silent.
+source of the working notes.** Any other agent-facing file added later should point here rather
+than copy it — two copies of house rules drift, and the drift is silent.
 
 ## What this repo is
 

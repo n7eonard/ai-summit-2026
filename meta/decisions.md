@@ -9,12 +9,16 @@ Choices made while building this library, and why. New entries go on top.
 The library was bootstrapped in Claude Code. From this point, preparation continues in Grok
 against the same remote (`n7eonard/ai-summit-2026`), with the same house rules.
 
-**[`AGENTS.md`](../AGENTS.md) is the single source of the working notes.** It was briefly
-duplicated into `CLAUDE.md` with a "keep them in sync" rule; that lasted less than a day
-before the two drifted — one file gained a pointer and a stale line survived in the other.
-Duplicated house rules drift, and they drift silently, which is the worst way for a rule to
-fail. [`CLAUDE.md`](../CLAUDE.md) is now a pointer with no content of its own, kept only so a
-Claude Code session landing here still picks up the rules automatically.
+**[`AGENTS.md`](../AGENTS.md) is the single source of the working notes**, and the only one.
+It was briefly duplicated into a `CLAUDE.md` with a "keep them in sync" rule; that lasted less
+than a day before the two drifted — one file gained a pointer, a stale line survived in the
+other. Duplicated house rules drift silently, which is the worst way for a rule to fail, so
+`CLAUDE.md` was deleted outright rather than kept as a stub.
+
+**Known trade-off:** a Claude Code session opening this repo no longer auto-loads the house
+rules, because `AGENTS.md` is not read automatically the way `CLAUDE.md` was. Anyone starting
+a Claude session here should be pointed at `AGENTS.md` explicitly. Accepted deliberately —
+Grok owns this repo.
 
 Same principle for anything added later: point at `AGENTS.md`, don't copy it.
 
