@@ -77,10 +77,10 @@ Andrew Ng — one of his teams asked for two PMs per engineer
 
 ---
 
-## 03 — Four shifts
+## 03 — The shifts
 → [`../docs/shifts/`](../docs/shifts/)
 
-**19** · *03 Four shifts*
+**19** · *03 Four shifts* — ⚠️ retitle: only three shifts remain
 
 **20** · **1** Split the role before it splits itself.
 **21** — Building is measurable, immediate, and nobody argues with it.
@@ -96,9 +96,11 @@ That is exactly what makes it a good place to hide.
 The middle is where work dies.
 → [Shift 3](../docs/shifts/03-surface-disagreement.md)
 
-**26** · **4** Freeze the surface so people can build habits.
-**27** — A tool that enables 100% of the job, that nobody knows how to use, is worth zero.
-→ [Shift 4](../docs/shifts/04-freeze-the-surface.md)
+~~**26** · **4** Freeze the surface so people can build habits.~~
+~~**27** — A tool that enables 100% of the job, that nobody knows how to use, is worth zero.~~
+> ⛔ **CUT 2026-08-24 — remove these two slides from the live deck.** Change management, not
+> this talk's claim. ~70 seconds returns to the budget. The slot may be refilled later.
+> → [retired page](../docs/shifts/04-freeze-the-surface.md) · [Q25/Q26](../meta/open-questions.md)
 
 ---
 

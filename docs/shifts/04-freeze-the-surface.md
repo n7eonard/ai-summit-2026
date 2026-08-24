@@ -1,6 +1,15 @@
-# Shift 4 — Freeze the surface so people can build habits
+# ~~Shift 4~~ — Freeze the surface so people can build habits
 
-**Slides:** 26–27 · **Evidence:** field
+> ⛔ **RETIRED 2026-08-24. Not in the talk.**
+>
+> Dropped because it fails the relevance filter: it is change management — about users
+> absorbing change — not about deciding and building collapsing into one person. It would sit
+> just as well in a talk about something else, and that is the test it failed.
+>
+> Kept because nothing in it is wrong, and some of it may be reusable in whatever fills the
+> fourth slot. → [`README.md`](README.md)
+
+**Former slides:** 26–27 · **Evidence:** field
 
 ## The failure
 

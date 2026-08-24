@@ -45,7 +45,7 @@ Tracked so that nothing on stage contradicts what the audience read before walki
 | Agent count | "10+" | "14" → **fix to "10+"** | **Resolved 2026-08-24:** the deck rounded up. Slide 2 must be corrected before the talk ships |
 | "a five-person team ships what fifteen used to" | present | absent | Deck uses Anthropic's measured figures instead. Better sourced — no action, but be ready if someone quotes the abstract back |
 | "six people in a room" | present | present (slide 15) | Consistent ✅ |
-| Four shifts | promised | delivered (slides 19–27) | Consistent ✅ |
+| Four shifts | promised | **three** (the fourth was dropped 2026-08-24) | ⚠️ **Decide:** fill the slot, or deliver three without drawing attention to the count |
 | Act 4 (LLM as mirror) | not mentioned | slides 28–35 | Fine — an unpromised ending is a gift, not a delta |
 
 ## Audience

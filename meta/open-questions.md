@@ -9,10 +9,32 @@ open until September.
 Q13–Q17 opened by the recovered history · **Q18–Q23 opened by the REX, and they are the
 serious ones — several things currently on slides are contradicted by the speaker's own
 retrospective.** Start there.
+**Q25 resolved: Shift 4 dropped** — the slot is open, see Q26. Q24 and Q26 are now the two that
+shape what the talk actually delivers.
 
 ---
 
 ## 🔴 Blocking
+
+### Q26 — What fills the fourth slot?
+
+Shift 4 was dropped (Q25). The slot is open and the published abstract promises four.
+
+**The strongest candidate is not a new idea.** It's the missing half of the vantage — the
+contrast with twelve years where deciding and building were separated, turned into a shift.
+Something in the shape of *rebuild the thing that used to force the deciding to happen*: the
+review, the kickoff, the person whose job was to disagree. Those existed and were load-bearing;
+they vanished with the friction that justified them, and nobody replaced them on purpose.
+
+That would make Act 3 land on the talk's own claim instead of drifting into general product
+advice, and it uses material only this speaker has. Depends on Q24.
+
+**Runner-up:** the *chimera role* framing — an engineer asked to carry product responsibility
+does neither job properly and burns out. Aimed at engineers, who currently have no moment in
+the talk (Q16). Unsourced → [`../evidence/market-signals.md`](../evidence/market-signals.md).
+
+**Also fine:** deliver three. Three that all land beats four where one is off-topic, and nobody
+counts unless you invite them to.
 
 ### Q24 — Half the vantage is undocumented: the twelve years of product management
 
@@ -39,7 +61,15 @@ practitioner of twelve years reporting what changed. It also softens Q17 — "~6
 is far less of a problem when the first person carries two decades of vantage rather than one
 mission.
 
-### Q25 — Does Shift 4 still belong?
+### Q25 — Does Shift 4 still belong? ✅ Resolved 2026-08-24 — dropped
+
+**Decision: drop it.** Replacement to be found later; the slot is open.
+→ [`../docs/shifts/README.md`](../docs/shifts/README.md), and **Q26** for what fills it.
+
+Deck consequences: slides 26–27 come out, ~70 seconds returns to the budget, and the published
+abstract's promise of "4 shifts" needs a decision. The retired page is kept, marked retired.
+
+*Original reasoning, kept for the record:*
 
 Honest doubt, raised by the relevance filter in [`AGENTS.md`](../AGENTS.md).
 

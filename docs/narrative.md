@@ -11,7 +11,7 @@ Four acts plus a coda, 36 slides. The structure is locked; the wording is in rev
         │
    ACT 2 (10–18)       what didn't compress             ← the field case
         │
-   ACT 3 (19–27)       four shifts                      ← the payload
+   ACT 3 (19–25)       the shifts                      ← the payload
         │
    ACT 4 (28–35)       one more thing                   ← the turn
         │
@@ -61,7 +61,7 @@ Closes: *The cost of building fell through the floor. The cost of being wrong di
 it's an argument from authority. Coming last, he's corroboration for something the audience
 has already watched happen.
 
-### Act 3 — four shifts (19–27)
+### Act 3 — the shifts (19–25, was 19–27)
 
 The takeaway payload. Each shift is one claim slide plus one sharp line.
 Full versions in [`shifts/`](shifts/).
@@ -106,7 +106,7 @@ nothing and buy a breath.
 | Cold open | 1–4 | **2:00** | ~30s/slide | Must not run long. The whole effect is speed |
 | 01 The compression is real | 5–9 | **3:30** | ~40s/slide | Slide 6 and 8 carry numbers — give them air, cut elsewhere |
 | 02 What didn't compress | 10–18 | **5:30** | ~35s/slide | The story. Protect this one |
-| 03 Four shifts | 19–27 | **5:00** | ~33s/slide | ~70s per shift, claim + line |
+| 03 The shifts | 19–25 | **3:50** | ~33s/slide | ~70s per shift. **~70s freed** by dropping the fourth |
 | 04 One more thing + close | 28–36 | **3:30** | ~23s/slide | Fast rhythm, **except slide 30 — hold it** |
 | Buffer | — | **0:30** | — | Applause, a joke landing, a laptop not waking up |
 

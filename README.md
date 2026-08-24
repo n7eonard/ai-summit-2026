@@ -10,7 +10,7 @@ at **AI Summit Barcelona**, 22 September 2026.
 A talk is 20 minutes and then it's gone. This repository is the part that stays.
 
 It holds the full context behind the talk: the argument and how it was built, the field
-case it comes from, every claim traced to its source, the four shifts in their long form
+case it comes from, every claim traced to its source, the shifts in their long form
 (with the objections that apply to them), and the working notes of the preparation itself.
 
 It is organised like the documentation of a tool, not like a blog post. Nothing here asks
@@ -39,7 +39,8 @@ if you don't make it. Start with the one you recognise.
    because it is made of human alignment and alignment has no corpus to learn from.
 4. So the bottleneck moved. It is no longer "can we build it." It is
    "do we know what to build, and does everyone actually agree."
-5. Four shifts follow from that. None of them are about tooling.
+5. Shifts follow from that. None of them are about tooling. Three are settled; a fourth
+   slot is open after one was dropped for being off-thesis.
 
 The long version: [`docs/thesis.md`](docs/thesis.md).
 
@@ -50,7 +51,7 @@ The long version: [`docs/thesis.md`](docs/thesis.md).
 | [`docs/thesis.md`](docs/thesis.md) | The argument in full, with its causal chain and its weak points |
 | [`docs/narrative.md`](docs/narrative.md) | How the talk is built: four acts, slide map, timing |
 | [`docs/case-study.md`](docs/case-study.md) | The field case. What I shipped, what I got wrong, and when |
-| [`docs/shifts/`](docs/shifts/) | The four shifts, one file each, long form |
+| [`docs/shifts/`](docs/shifts/) | The shifts, one file each, long form. The fourth slot is open |
 | [`docs/llm-as-mirror.md`](docs/llm-as-mirror.md) | The closing move: pointing a model at your transcripts, not your codebase |
 | [`evidence/`](evidence/) | Every external claim in the talk, traced, dated, and caveated |
 | [`deck/`](deck/) | Slide-by-slide content and the link to the live deck |

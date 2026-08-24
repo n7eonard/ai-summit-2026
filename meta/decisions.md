@@ -4,6 +4,21 @@ Choices made while building this library, and why. New entries go on top.
 
 ---
 
+## 2026-08-24 (late) — Shift 4 dropped
+
+*Freeze the surface so people can build habits* is out. It was the only one of the four that
+would have sat just as well in a talk about something else — change management, not the
+collapse of deciding into building. Applying the relevance filter to the talk's own contents,
+not only to incoming material.
+
+The page is kept, marked retired; the deck loses slides 26–27 and gains ~70 seconds. The slot
+is deliberately left open rather than backfilled in a hurry → Q26. The published abstract
+promises four, which is now a decision to make rather than a fact.
+
+**Three that all land beats four where one is off-topic.**
+
+---
+
 ## 2026-08-24 (late) — A relevance filter, after importing the wrong thing
 
 **What went wrong.** The mission retrospective was found and treated as a source to mine
