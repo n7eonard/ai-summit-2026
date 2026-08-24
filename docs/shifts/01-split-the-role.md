@@ -17,7 +17,7 @@ spent on it looks from the outside like an hour of nothing. Building produces a 
 Put both in one person under any pressure at all and there is no contest. The role doesn't
 split evenly; it collapses into the half with the dopamine.
 
-**From the field:** my highest-output week at Bricks was also the week I pushed back on my
+**From the field:** my highest-output week on that mission was also the week I pushed back on my
 client the least. Those weren't independent events. The output *was* the avoidance.
 
 ## Why now specifically
@@ -57,4 +57,4 @@ easy and too rewarding.
 ## Related
 
 [Shift 3](03-surface-disagreement.md) is what the deciding half should actually spend its
-time on. [`docs/case-bricks.md`](../case-bricks.md) is the failure in full.
+time on. [`docs/case-study.md`](../case-study.md) is the failure in full.

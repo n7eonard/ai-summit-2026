@@ -16,8 +16,13 @@ Experimenta · AI Product Partners — [experimenta.work](https://experimenta.wo
 
 ## Abstract (as submitted)
 
+> The company name is redacted **here only**. The abstract published on the conference site
+> carries it — that text is already public and is not changed by this repository. The
+> redaction keeps this repo from attaching the critical field material to a named company
+> and a named person. See [`../meta/open-questions.md`](../meta/open-questions.md#naming).
+
 > Engineering output has exploded. At leading AI companies, a five-person team now ships what
-> fifteen used to. At Bricks, an AI proptech startup I shipped 10+ production AI agents in 3
+> fifteen used to. At [company redacted], an AI proptech startup I shipped 10+ production AI agents in 3
 > months. Alone with Claude Code as my unfair advantage. But the part of product work that
 > actually decides whether you build the right thing — getting six people in a room to agree
 > hasn't gotten any faster because it can't.
@@ -28,7 +33,7 @@ Experimenta · AI Product Partners — [experimenta.work](https://experimenta.wo
 > everyone agree."
 >
 > This talk is about what breaks when that compression hits, what I got wrong shipping solo at
-> Bricks, and 4 shifts/changes builders need to make now whether you're a PM, an engineer, or
+> [company redacted], and 4 shifts/changes builders need to make now whether you're a PM, an engineer, or
 > a founder watching your team try to figure out who owns what.
 
 ## Deltas between the abstract and the current deck
@@ -37,7 +42,7 @@ Tracked so that nothing on stage contradicts what the audience read before walki
 
 | Item | Abstract | Deck | Action |
 |---|---|---|---|
-| Agent count | "10+" | "14" | **Reconcile** — the deck should not exceed what was promised, and a specific number beats a floor |
+| Agent count | "10+" | "14" → **fix to "10+"** | **Resolved 2026-08-24:** the deck rounded up. Slide 2 must be corrected before the talk ships |
 | "a five-person team ships what fifteen used to" | present | absent | Deck uses Anthropic's measured figures instead. Better sourced — no action, but be ready if someone quotes the abstract back |
 | "six people in a room" | present | present (slide 15) | Consistent ✅ |
 | Four shifts | promised | delivered (slides 19–27) | Consistent ✅ |

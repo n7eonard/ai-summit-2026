@@ -32,7 +32,7 @@ It's independent corroboration arriving from the opposite direction. The talk re
 bottleneck moved" from one freelancer's failed mission; Ng reaches it from running multiple
 teams at scale. Two different vantage points, same conclusion, neither derived from the other.
 
-Placement matters: it comes **after** the Bricks story, not before. First the audience watches
+Placement matters: it comes **after** the field story, not before. First the audience watches
 it happen, then someone credible says it's general. Reversed, it's an argument from authority.
 
 ## Links

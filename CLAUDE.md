@@ -37,7 +37,7 @@ the speaker having got things wrong and said so.
 transcription of the live Google Slides. When the deck moves, re-sync it, and update the
 transcription date.
 
-**Don't invent field detail.** The Bricks material is first-hand testimony. If a date, a
+**Don't invent field detail.** The field material is first-hand testimony. If a date, a
 count, or a sequence isn't already recorded, it goes to `meta/open-questions.md` as a question
 for the speaker — never gets filled in plausibly.
 
@@ -48,6 +48,6 @@ Nicolas in French.
 
 - Live deck: [Google Slides](https://docs.google.com/presentation/d/1LzHwT3HQxIEUMPMVrdSHSM9IEgZSnEJbucncsGTUwKc/edit)
 - `~/Code/whoami/WHO-ME.md` — private self-portrait work by the same author. Contains
-  independent material on the Bricks mission (notably: peak flow came from a six-week
+  independent material on that same mission (notably: peak flow came from a six-week
   objective with a shared checkpoint; motivation collapsed in phases without a clear goal).
   Corroborates Shift 1. **Private — do not copy content from it into this public repo.**

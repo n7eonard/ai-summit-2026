@@ -50,7 +50,7 @@ The long version: [`docs/thesis.md`](docs/thesis.md).
 |---|---|
 | [`docs/thesis.md`](docs/thesis.md) | The argument in full, with its causal chain and its weak points |
 | [`docs/narrative.md`](docs/narrative.md) | How the talk is built: four acts, slide map, timing |
-| [`docs/case-bricks.md`](docs/case-bricks.md) | The field case. What I shipped, what I got wrong, and when |
+| [`docs/case-study.md`](docs/case-study.md) | The field case. What I shipped, what I got wrong, and when |
 | [`docs/shifts/`](docs/shifts/) | The four shifts, one file each, long form |
 | [`docs/llm-as-mirror.md`](docs/llm-as-mirror.md) | The closing move: pointing a model at your transcripts, not your codebase |
 | [`evidence/`](evidence/) | Every external claim in the talk, traced, dated, and caveated |

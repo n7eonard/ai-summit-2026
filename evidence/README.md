@@ -3,8 +3,8 @@
 Every external claim made on stage, traced to a primary source, with its caveats.
 
 If you're checking a number from the talk, it's in the ledger below.
-Claims about the Bricks mission are first-hand and live in
-[`docs/case-bricks.md`](../docs/case-bricks.md) instead — they're testimony, not citation.
+Claims about the mission are first-hand and live in
+[`docs/case-study.md`](../docs/case-study.md) instead — they're testimony, not citation.
 
 **Last verified:** 2026-08-24
 

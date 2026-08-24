@@ -14,8 +14,9 @@ Verbatim transcription of the current draft (36 slides), mapped to the documenta
 **When anyone can build, the person who decides what to build becomes the bottleneck**
 Nicolas Léonard · AI Summit Barcelona · 22 September 2026
 
-**2** — 14 production AI agents. 3 months. One person.
-> ⚠️ count contested vs. the official abstract ("10+") — see [`../meta/open-questions.md`](../meta/open-questions.md#agent-count)
+**2** — 10+ production AI agents. 3 months. One person.
+> ⚠️ **the live deck still says "14" — correct it.** Resolved 2026-08-24 in favour of the
+> submitted abstract's "10+". See [`../meta/open-questions.md`](../meta/open-questions.md#agent-count)
 
 **3** — The same quarter — the expert whose job I was automating was still doing it by hand.
 
@@ -48,7 +49,7 @@ That combination is the whole talk.
 ---
 
 ## 02 — What didn't compress
-→ [`../docs/case-bricks.md`](../docs/case-bricks.md)
+→ [`../docs/case-study.md`](../docs/case-study.md)
 
 **10** · *02 What didn't compress*
 

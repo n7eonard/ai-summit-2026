@@ -37,7 +37,7 @@ That feeling is the trap. It was correct advice for twenty years.
 - **Force the disagreement into an artefact.** A written definition of "good" that six people
   have actually initialled. If nobody will sign it, you have your finding, and you got it in
   a day.
-- **Treat "everyone agrees" as unverified until tested.** Nobody in the Bricks story thought
+- **Treat "everyone agrees" as unverified until tested.** Nobody in the story thought
   they disagreed. Agreement that has never been stressed is indistinguishable from agreement
   that doesn't exist.
 - **Bring people in at genesis, or take it to autonomous impact:**

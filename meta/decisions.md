@@ -4,6 +4,23 @@ Choices made while building this library, and why. New entries go on top.
 
 ---
 
+## 2026-08-24 — Anonymisation, and the agent count
+
+**The client company, its CEO and the domain expert are not named in this repository.**
+The field material is critical — an expert who couldn't state his own rule twice the same
+way, six weeks of unspoken tension — and a public, indexed repo attaching that to a named
+company and a findable person is a different act from saying it once from a stage. The
+argument loses nothing: "an AI proptech startup, real-estate financing" carries the whole
+story. Residual exposure via the published abstract is flagged as a speaker decision.
+→ [Q3](open-questions.md#naming)
+
+**Agent count settled at 10+**, matching the submitted abstract. The deck rounded up to 14
+and needs correcting. Under-claiming against your own abstract costs nothing; being caught
+over-claiming in the first ninety seconds of a talk about intellectual honesty would cost
+the whole room. → [Q1](open-questions.md#agent-count)
+
+---
+
 ## 2026-08-24 — Repository bootstrapped
 
 **Structured as a tool's documentation, not as a blog.** Requested explicitly. The consequence
@@ -38,7 +55,8 @@ This was not in the deck. It is probably the strongest evidence in the talk for 
 the most bullish dataset available says in its own footnotes that it can't cleanly judge its
 own output. → open question Q6.
 
-**Deck and abstract disagree on the agent count** (14 vs 10+). → Q1, blocking.
+**Deck and abstract disagreed on the agent count** (14 vs 10+). Resolved same day in favour
+of 10+; the live deck still needs the edit.
 
 **The Andrew Ng quotation lacks a primary source.** Substance is well attested; the exact
 wording, on a slide, attributed by name, is not yet traced to the original. → Q4.

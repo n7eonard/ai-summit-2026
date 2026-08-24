@@ -1,12 +1,16 @@
-# The field case — Bricks
+# The field case
 
 > The talk earns the right to its claim from one mission. This is that mission, in full.
 
-**What:** AI proptech startup, real-estate financing.
+**What:** an AI proptech startup, real-estate financing.
 **Role:** freelance, solo build, Claude Code as the working environment.
 **Duration:** ~3 months, ending early August 2026.
-**Output:** production AI agents shipped, alone. *(exact count contested — see
-[`meta/open-questions.md`](../meta/open-questions.md#agent-count))*
+**Output:** 10+ production AI agents shipped, alone.
+
+> **On naming.** The company, its CEO and the domain expert are not named in this
+> repository, and the identifying detail has been kept out. What follows is about a
+> structural failure mode and about my own errors in it — nothing here is a complaint about
+> anyone I worked with. See [`meta/open-questions.md`](../meta/open-questions.md#naming).
 
 ## The setup
 

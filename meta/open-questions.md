@@ -9,16 +9,12 @@ open until September.
 
 ## 🔴 Blocking
 
-### <a id="agent-count"></a>Q1 — How many agents? 14 or 10+?
+### <a id="agent-count"></a>Q1 — How many agents? ✅ Resolved 2026-08-24
 
-The deck (slide 2) says **14**. The submitted abstract says **10+**.
+**Answer: 10+.** The deck rounded up. Everything in this repository now says 10+.
 
-The number is the credential the entire cold open rests on, and someone in the room will have
-read the abstract. Pick one and make it true everywhere. A specific number is stronger than a
-floor, provided it's defensible — so if 14 is right, the abstract's "10+" is merely
-conservative and there's no contradiction to worry about. If the deck rounded up, fix the deck.
-
-**Needed from:** the speaker. **Blocks:** slide 2, `docs/case-bricks.md`, `talk/abstract.md`.
+**⚠️ One action remains:** the live deck still shows *14* on slide 2. Edit it.
+→ [`deck/README.md`](../deck/README.md)
 
 ### Q2 — What is the slot length?
 
@@ -31,24 +27,31 @@ slot is 15 minutes, Act 1 gets compressed instead — see
 
 **Needed from:** the conference. **Blocks:** all timing work, rehearsal.
 
-### Q3 — What can be said publicly about the client?
+### <a id="naming"></a>Q3 — What can be said publicly about the client? ✅ Policy set 2026-08-24
 
-Act 4 tells a story about six weeks of unspoken tension with a named client, and about him
-running an LLM over our private conversations. It's the best material in the talk and it is
-about a real, identifiable person, on a public stage, in a public repository.
+**Decision: anonymise in this repository.** The company, its CEO and the domain expert are
+not named here. The material stays — the failure mode is the point and it loses nothing by
+being told about "an AI proptech startup".
 
-- Is "Bricks" nameable, or does it become "an AI proptech startup"?
-- Has he been told the story is being told? Has he agreed?
-- Same question for the expert in Act 2 — slide 13 says he applied his own rule
-  inconsistently. Delivered as observation it's respectful. In a public repo with the company
-  named, it's more exposed than that.
+Why: Act 4 describes six weeks of unspoken tension with a real person, and slide 13 says a
+real expert applied his own rule inconsistently. On stage, delivered as observation, that is
+respectful. In a public repository, indexed, attached to a named company and a findable
+person, it is a different act — and an irreversible one.
 
-This is the one that can't be fixed the week before.
+**⚠️ Two actions remain, and they are the speaker's:**
 
-**Needed from:** the speaker, and probably a conversation with the client.
-**Blocks:** Act 2, Act 4, `docs/case-bricks.md`, whether this repo stays public as written.
+1. **The published abstract names the company.** That text is already public on the
+   conference site and this repo doesn't change it. Anyone can therefore join the dots.
+   The redaction here reduces exposure; it does not eliminate it. Decide whether that's
+   acceptable, or ask the conference to adjust the abstract.
+2. **Tell the client and the expert.** Anonymised or not, the story is being told from a
+   stage in Barcelona. They should hear it from you first — and the Act 4 story in
+   particular is *his* story as much as yours. He comes out of it well; he should still get
+   to know it's being told.
 
----
+**Also decide:** whether the company is named *out loud on stage* even though it isn't named
+here. That's a defensible split — a room of 200 is not a search index — but it should be a
+choice, not an accident.
 
 ## 🟠 Should be resolved
 
@@ -73,9 +76,9 @@ credibility — and it pre-empts the "that's vendor marketing" heckle.
 
 **Recommendation: add it.** It makes Act 1 land harder, not softer.
 
-### Q7 — Tighten the Bricks timeline
+### Q7 — Tighten the mission timeline
 
-`docs/case-bricks.md` has the shape but the phase boundaries are approximate. When did the
+`docs/case-study.md` has the shape but the phase boundaries are approximate. When did the
 six weeks start? When did the "still doing it by hand" discovery land? When was the readout?
 Precision here is cheap and makes the story much harder to wave away.
 
