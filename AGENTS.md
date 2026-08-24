@@ -73,6 +73,10 @@ transcription date.
 count, or a sequence isn't already recorded, it goes to `meta/open-questions.md` as a question
 for the speaker — never gets filled in plausibly.
 
+**Never commit `assets/`.** Local working captures (screenshots, episode stills, third-party
+slides) stay on disk for preparation. They do not belong in this public repo. `.gitignore`
+enforces it.
+
 **Language:** repo content in English (international audience). Working conversation with
 Nicolas in French.
 
