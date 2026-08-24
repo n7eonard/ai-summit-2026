@@ -54,16 +54,18 @@ The long version: [`docs/thesis.md`](docs/thesis.md).
 | [`evidence/`](evidence/) | Every external claim in the talk, traced, dated, and caveated |
 | [`deck/`](deck/) | Slide-by-slide content and the link to the live deck |
 | [`talk/abstract.md`](talk/abstract.md) | Official abstract, session metadata, speaker info |
-| [`meta/`](meta/) | Preparation notes, open questions, decisions log |
+| [`meta/history.md`](meta/history.md) | How the talk got here — what it used to be, and what was cut |
+| [`meta/`](meta/) | Open questions and the decisions log |
 
 ## Status
 
 The talk is **in preparation**. This library is versioned alongside it.
 
-- Deck: draft, 36 slides, structure locked, wording in revision.
-- Evidence: 3 external claims verified (see [`evidence/README.md`](evidence/README.md)).
-- Open questions: see [`meta/open-questions.md`](meta/open-questions.md) — several are
-  blocking and need the speaker, not research.
+- **Slot:** 20 minutes on stage, 5 minutes Q&A.
+- **Deck:** draft, 36 slides, structure locked, wording in revision.
+- **Evidence:** 3 external claims verified, with caveats — [`evidence/README.md`](evidence/README.md).
+- **Open questions:** [`meta/open-questions.md`](meta/open-questions.md). Q1, Q2, Q11 and Q12
+  resolved; the remainder need the speaker, not research.
 
 ## License
 

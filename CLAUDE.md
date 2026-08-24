@@ -21,6 +21,8 @@ half-finished thoughts left unmarked, and unresolved items go in
 - [`meta/open-questions.md`](meta/open-questions.md) — what's unresolved, **read before
   proposing anything**; three items are blocking
 - [`meta/decisions.md`](meta/decisions.md) — what was already decided and why
+- [`meta/history.md`](meta/history.md) — what the talk used to be. **Read before proposing a
+  structural change**: a different set of four shifts was already tried and replaced
 
 ## House rules
 

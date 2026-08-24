@@ -95,20 +95,49 @@ wrong thing.*
 
 ## Timing
 
-**Not yet allocated — this is a blocking open question.** See
-[`meta/open-questions.md`](../meta/open-questions.md#slot). 36 slides is comfortable for 20
-minutes at this density (short, declarative, low word count), tight for 15, and would need
-material added for 30.
+**20 minutes on stage, 5 minutes of Q&A.** Confirmed 2026-08-24.
 
-Rough proportions to hold whatever the slot:
+36 slides in 20 minutes is ~33 seconds per slide on average — comfortable at this density,
+because the deck is short declarative lines, not paragraphs. The section dividers cost almost
+nothing and buy a breath.
 
-| Act | Share | Note |
-|---|---|---|
-| Cold open | ~10% | Must not run long — the whole point is speed |
-| Act 1 | ~20% | Evidence, can be compressed if needed |
-| Act 2 | ~30% | The story. Protect this one |
-| Act 3 | ~25% | Four shifts, roughly equal |
-| Act 4 + close | ~15% | Do not rush the readout beat |
+| Act | Slides | Target | Pace | Note |
+|---|---|---|---|---|
+| Cold open | 1–4 | **2:00** | ~30s/slide | Must not run long. The whole effect is speed |
+| 01 The compression is real | 5–9 | **3:30** | ~40s/slide | Slide 6 and 8 carry numbers — give them air, cut elsewhere |
+| 02 What didn't compress | 10–18 | **5:30** | ~35s/slide | The story. Protect this one |
+| 03 Four shifts | 19–27 | **5:00** | ~33s/slide | ~70s per shift, claim + line |
+| 04 One more thing + close | 28–36 | **3:30** | ~23s/slide | Fast rhythm, **except slide 30 — hold it** |
+| Buffer | — | **0:30** | — | Applause, a joke landing, a laptop not waking up |
+
+### Where the time goes if you overrun
+
+In order, first to be cut:
+
+1. **Act 1, slides 5 and 7.** The divider can be a half-beat; the Brooks' Law slide can be one
+   sentence instead of three. Saves ~40s and costs nothing structural.
+2. **Act 3, the claim slides (20, 22, 24, 26).** Say the shift, move to the line. Saves ~30s.
+3. **Act 2, slides 11–12.** Compress the setup. The setup is not the point; slide 13 is.
+
+**Never cut:** slides 3–4 (the undercut), 13–14 (the discovery and its generalisation), 30
+(the readout), 32 (the correlation), 35 (the last line). If those five land, the talk works
+even if everything else is rushed.
+
+### Two beats that need silence, not speed
+
+- **Slide 14** — *you cannot automate a decision your expert can't state twice the same way.*
+  Let it sit. This is the sentence people will write down.
+- **Slide 30** — *it was cold. That is exactly what we needed.* The room will laugh at
+  "cold". Wait for the laugh to finish before the second sentence, or it's lost.
+
+### Q&A — 5 minutes
+
+Realistically three questions. The predictable ones are already answered in this repo; the
+job before the talk is rehearsing them out loud, not researching them.
+→ [`../meta/open-questions.md`](../meta/open-questions.md) Q10.
+
+Have a closing line ready for when time runs out mid-answer — Q&A that ends on a moderator
+cutting you off wastes the ending you built.
 
 ## Craft notes
 

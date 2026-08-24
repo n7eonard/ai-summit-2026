@@ -4,6 +4,21 @@ Choices made while building this library, and why. New entries go on top.
 
 ---
 
+## 2026-08-24 — History recovered, timing fixed
+
+**The preparation history is now a first-class file**, not a footnote.
+[`history.md`](history.md) records what the talk used to be: a different set of four shifts,
+a different title, a 26-slide deck, and a body of material that was cut. Kept because the
+talk changed shape substantially and none of the reasoning was written down — knowing what
+was already tried and dropped is what stops it being re-tried.
+
+**Timing built around 20 + 5.** [`docs/narrative.md`](../docs/narrative.md#timing) now carries
+a per-act allocation, an explicit *cut order* for overrunning, a list of five slides that must
+never be cut, and two beats that need silence. A talk plan without a cut order isn't a plan —
+it just fails at whichever slide the clock happens to run out on.
+
+---
+
 ## 2026-08-24 — Anonymisation, and the agent count
 
 **The client company, its CEO and the domain expert are not named in this repository.**
@@ -14,10 +29,15 @@ argument loses nothing: "an AI proptech startup, real-estate financing" carries 
 story. Residual exposure via the published abstract is flagged as a speaker decision.
 → [Q3](open-questions.md#naming)
 
-**Agent count settled at 10+**, matching the submitted abstract. The deck rounded up to 14
-and needs correcting. Under-claiming against your own abstract costs nothing; being caught
-over-claiming in the first ninety seconds of a talk about intellectual honesty would cost
-the whole room. → [Q1](open-questions.md#agent-count)
+**Agent count settled at 10+**, matching the submitted abstract; the deck still says 14 and
+needs the edit. Under-claiming against your own abstract costs nothing; being caught
+over-claiming in the first ninety seconds of a talk about intellectual honesty would cost the
+whole room. → [Q1](open-questions.md#agent-count)
+
+*Correction, later the same day:* the recovered history shows **14 was the original working
+figure**, used consistently from April — including in a candidate title. The deck did not
+round up; the submitted abstract was deliberately conservative. The 10+ decision stands, and
+the reason is now the better one: it's the number that was published.
 
 ---
 
@@ -61,8 +81,6 @@ of 10+; the live deck still needs the edit.
 **The Andrew Ng quotation lacks a primary source.** Substance is well attested; the exact
 wording, on a slide, attributed by name, is not yet traced to the original. → Q4.
 
-**Earlier preparation conversations are not locally recoverable.** Searched all Claude Code
-transcripts in `~/.claude/projects/` — no session mentions the talk. They were almost
-certainly claude.ai web chats, stored server-side. The deck itself is the surviving artefact
-of that work, and this repository reconstructs the reasoning around it rather than recovering
-it. → Q11.
+**Earlier preparation conversations were not in Claude Code.** Searched all transcripts in
+`~/.claude/projects/` — no session mentions the talk. **Later recovered from Claude Chat
+(claude.ai)** and written up in [`history.md`](history.md). → Q11, resolved.

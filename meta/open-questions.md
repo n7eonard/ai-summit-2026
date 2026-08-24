@@ -5,6 +5,9 @@ open until September.
 
 **Legend:** 🔴 blocking · 🟠 should be resolved · 🟡 nice to have
 
+**Status 2026-08-24:** Q1, Q2, Q11, Q12 resolved · Q3 policy set, two speaker actions remain ·
+Q13–Q15 opened by the recovered history.
+
 ---
 
 ## 🔴 Blocking
@@ -16,16 +19,13 @@ open until September.
 **⚠️ One action remains:** the live deck still shows *14* on slide 2. Edit it.
 → [`deck/README.md`](../deck/README.md)
 
-### Q2 — What is the slot length?
+### Q2 — What is the slot length? ✅ Resolved 2026-08-24
 
-Not recorded anywhere. Everything about pacing depends on it, and 36 slides behaves very
-differently at 15, 20 and 30 minutes. Also: is there a Q&A, and how long?
+**20 minutes on stage + 5 minutes Q&A.**
 
-Act 4 is the first casualty of a short slot, and it's the part that shouldn't be cut. If the
-slot is 15 minutes, Act 1 gets compressed instead — see
+Full allocation, the order things get cut in if you overrun, the five slides that must never
+be cut, and the two beats that need silence rather than speed:
 [`docs/narrative.md`](../docs/narrative.md#timing).
-
-**Needed from:** the conference. **Blocks:** all timing work, rehearsal.
 
 ### <a id="naming"></a>Q3 — What can be said publicly about the client? ✅ Policy set 2026-08-24
 
@@ -105,17 +105,45 @@ The predictable questions are already answered in the docs but not rehearsed:
 - "Isn't this just doing product properly?" → [`docs/shifts/01-split-the-role.md`](../docs/shifts/01-split-the-role.md#objections)
 - "n=1 on your case study" → [`docs/thesis.md`](../docs/thesis.md#known-weak-points)
 
-### Q11 — Recover the earlier preparation conversations
+### Q11 — Recover the earlier preparation conversations ✅ Resolved 2026-08-24
 
-Prior talk-prep sessions exist but are **not** in local Claude Code history (searched
-2026-08-24: no session in `~/.claude/projects/` mentions the talk). They were almost certainly
-in claude.ai web chats, which are stored server-side and can't be searched from here.
+Found. They were in **Claude Chat (claude.ai)**, not Claude Code — which is why the local
+transcript search came up empty. Recovered and written up in [`history.md`](history.md):
+the timeline, the four shifts that were replaced, what was cut and why, and the visual
+identity fixed in May.
 
-If they're found, the reasoning behind choices already made — why these four shifts and not
-others, what was cut — should be captured in [`decisions.md`](decisions.md). Right now that
-file records only what was decided while building this repository.
+Three things came back that are worth acting on → **Q13**, **Q14**, **Q15** below.
 
-### Q12 — Is the deck's visual design settled?
+Still missing: the rebuild itself — seven sections into four acts, and the shift replacement
+— is in none of the recovered conversations. If you remember why, it belongs in
+[`history.md`](history.md).
 
-This repo covers content only. Typography, colour, and the section-divider treatment are
-untouched here.
+### Q12 — Is the deck's visual design settled? ✅ Largely, since May 2026
+
+Palette and type were fixed during the first deck build and the current deck still uses them
+(`#0E0E10` / `#F4F1EC` / `#D94F2A`, Georgia + Calibri). Recorded in
+[`history.md`](history.md).
+
+**One delivery item is genuinely open:** print the A4 backup sheet — section timings, the
+five must-land lines, transitions. Decided in May, never done for the current 36-slide deck.
+Ten minutes of work; it saves the talk if Presenter View fails on stage.
+
+### Q13 — Stage the client's feedback instead of summarising it
+
+Recovered from the April structure: the story was originally built around a specific moment,
+the client saying in substance *that's not what I need from you.* The current deck says "I
+built the wrong thing at record speed" — true, abstract, and it gives up the strongest beat
+available in Act 2. Consider restoring the moment.
+
+### Q14 — Does *"alignment has nowhere to live"* belong on a slide?
+
+It was the runner-up title in April and never made it into the deck. Slide 16 currently takes
+three sentences to say it. If the line is as good as it looked in April, it's a slide by
+itself.
+
+### Q15 — Does the talk need the recovery, not just the failure?
+
+The April structure had a Q1→Q2 arc: stopped building, started orchestrating a hybrid
+human/AI system. The current deck diagnoses the failure and never shows what came after.
+Defensible — an unresolved failure is more honest, and the four shifts *are* the resolution —
+but it should be a deliberate choice rather than an omission.
