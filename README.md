@@ -1,6 +1,6 @@
 # When anyone can build, the person who decides *what* to build becomes the bottleneck
 
-Companion library for the talk of the same name, given by [Nicolas Léonard](https://experimenta.work)
+Companion library for the talk of the same name, given by [Nicolas Léonard](https://www.linkedin.com/in/freelance-product-management/) from [Experimenta Studio](https://experimenta.work)
 at **AI Summit Barcelona**, 22 September 2026.
 
 ---
