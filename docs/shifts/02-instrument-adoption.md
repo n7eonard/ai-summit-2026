@@ -13,9 +13,26 @@ violated. That is three separate signs of life. Silence has none of them, and it
 exactly like success from where you're sitting.
 
 **From the field:** the agents were in production. The expert whose job they automated was
-still doing it by hand, the same quarter. No alarm went off, because there was nothing
-watching for the absence of use — only for errors, and there were none. A tool nobody runs
-throws no exceptions.
+still doing it by hand, the same quarter — on his own separate AI tool. No alarm went off,
+because there was nothing watching for the absence of use — only for errors, and there were
+none. A tool nobody runs throws no exceptions.
+
+**The exact shape of the false positive** — this is the moment worth putting on a slide. On
+1 April the expert said, in substance, *"what's been built is amazing"*, and was not using it.
+Praise and non-use, from the same person, in the same week. Six months were steered on
+declared enthusiasm and the feel of sync meetings, with nothing instrumented.
+
+**Why the praise was sincere and useless.** From the retrospective: *feedback given in a weekly
+is cold, reconstructed, and public — therefore softened out of regard for the person who has
+been building for months.* Politeness isn't the failure; the format is. The feedback that
+counts is captured at the exact moment of friction, inside the product. In-app feedback is not
+optional, and it is always the thing that gets cut.
+
+**The metric that lied.** Coverage looked like progress: 14 active rules. Validated: 0.
+Average relevance: 35%. Coverage climbed while value stayed flat.
+
+> On an internal tool automating an ops process with AI, **coverage is a fake metric.
+> Trust is the real one.**
 
 ## Why now specifically
 

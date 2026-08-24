@@ -20,6 +20,27 @@ split evenly; it collapses into the half with the dopamine.
 **From the field:** my highest-output week on that mission was also the week I pushed back on my
 client the least. Those weren't independent events. The output *was* the avoidance.
 
+That is measured, not remembered. In February, with no deadline and no plan, an assertiveness
+ratio of **~10 in private working sessions against 0.14 in messages to the client** — the same
+person, the same weeks. When legitimacy isn't secured on the ground of opinion, it goes looking
+for it on the ground of output.
+
+**Across the whole mission, the two signals never aligned.** Value produced and relationship
+quality moved independently for seven months, and there was no phase before the sixth month
+where both were good at once. The peak-production stretch and the lowest-adoption stretch were
+the same stretch.
+
+**The distinction that saves this from being a confession.** Later in the mission, choosing to
+build over syncing was an explicit, jointly-taken call against a hard deadline — and it was
+right. Early on it was avoidance. **The two produce exactly the same observable behaviour**,
+and neither of them priced the cost of the isolation. Choosing build is legitimate; not
+attaching a review gate to that choice is not.
+
+**Where it landed.** The correction agreed with the client was not "be more assertive" — it was
+structural: **a pair rather than a single role**, one clearly a builder, one on product and
+strategy. He generalised it to the company: stop mixing roles, give squads distinct perimeters.
+The mixing suited 0→1 and stops suiting what comes after.
+
 ## Why now specifically
 
 The two jobs used to be self-balancing, because building was slow enough that you were

@@ -19,6 +19,7 @@ Claims about the mission are first-hand and live in
 | C5 | "I don't see product management work becoming faster at the same speed as engineering" | 17 | [Andrew Ng](andrew-ng-pm-ratio.md) | ⚠️ Substance verified, **exact wording needs primary check** |
 | C6 | One of Ng's teams asked for two PMs per engineer | 17 | [Andrew Ng](andrew-ng-pm-ratio.md) | ✅ Verified |
 | C7 | For fifty years, more output meant more people | 7 | Brooks, *The Mythical Man-Month* (1975) | 📎 Framing, not a cited statistic — see below |
+| C8– | Market signals: FDE, "chimera role", PM hiring patterns | *not on any slide* | [market-signals.md](market-signals.md) | ⛔ **Unverified.** Recorded, not usable as-is |
 
 **Legend:** ✅ verified against a primary or near-primary source · ⚠️ verified in substance,
 sourcing or wording needs one more pass · 📎 rhetorical framing, no citation claimed

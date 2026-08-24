@@ -135,17 +135,18 @@ credibility — and it pre-empts the "that's vendor marketing" heckle.
 
 **Recommendation: add it.** It makes Act 1 land harder, not softer.
 
-### Q7 — Tighten the mission timeline
+### Q7 — Tighten the mission timeline ✅ Largely answered by the REX
 
-`docs/case-study.md` has the shape but the phase boundaries are approximate. When did the
-six weeks start? When did the "still doing it by hand" discovery land? When was the readout?
-Precision here is cheap and makes the story much harder to wave away.
+The retrospective dates the phases: Feb–Mar weak value and worst relational signal; April
+mixed; May strong value, halved contact; June–July strong on both. The readout: end of March.
+The record-output week: February. Carried into [`docs/case-study.md`](../docs/case-study.md).
 
-### Q8 — Is "six people" literal?
+What remains open is only which window the deck's "3 months" refers to → Q18.
 
-Slide 15 and the abstract both say six. If the real number is five or seven, use the real
-number. If "six" is a stand-in for "the stakeholders," say "the room" instead. Don't invent
-precision in a talk about intellectual honesty.
+### Q8 — Is "six people" literal? ⛔ Superseded by Q19
+
+Worse than imprecise: the number isn't from the field at all. See **Q19** — it traces to a
+second-hand anecdote in the April inputs, and the deck presents it as first-hand.
 
 ---
 
@@ -235,6 +236,11 @@ inconsistent; it is that **the person whose judgement was being encoded was not 
 had commissioned the encoding**, so nobody was positioned to notice the rule wasn't stable.
 
 ### Q16 — 🟠 The engineer moment and the founder moment were never written
+
+> **Possible answer found 2026-08-24:** the *chimera role* — an engineer asked to carry product
+> responsibility does neither job properly, and burns out. Aimed straight at engineers, and it
+> is the sharpest phrasing of Shift 1 anywhere in the material. **Unsourced** — see
+> [`evidence/market-signals.md`](../evidence/market-signals.md).
 
 Flagged in April, never done. The abstract promises to address "a PM, an engineer, or a
 founder"; the deck has exactly one concrete human moment, and it's the PM one (the client's
