@@ -24,7 +24,7 @@ Four acts plus a coda, 36 slides. The structure is locked; the wording is in rev
 
 Earn the right to speak, then spend it immediately.
 
-Slide 2 is the credential: *N production AI agents. 3 months. One person.* Slides 3 and 4
+Slide 2 is the credential: *N production AI agents. Seven months. One person.* Slides 3 and 4
 take it back before the audience has finished being impressed — the expert was still doing
 it by hand, and *for six weeks I built the wrong thing at record speed.*
 

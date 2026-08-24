@@ -2,25 +2,11 @@
 
 What still has to be decided or done before 22 September. Numbers are stable and never reused.
 
-**🔴 6 blocking · 🟠 10 to resolve · 🟡 3 minor · ✅ 8 settled** *(one line each, at the bottom)*
+**🔴 4 blocking · 🟠 10 to resolve · 🟡 3 minor · ✅ 10 settled** *(one line each, at the bottom)*
 
 ---
 
 ## 🔴 Blocking
-
-### Q19 — "Six people who disagreed" is not from the field
-
-**The most serious item in the deck.** Slide 15 presents it as first-hand. It traces to
-second-hand material gathered in April — an anecdote about aligning six stakeholders — and the
-mission it's attributed to describes something different: one expert applying his own rule
-inconsistently, and an unspoken mismatch about the speaker's role.
-
-In a talk arguing for honesty about your own output, a borrowed anecdote wearing the clothes of
-testimony is what costs the room if anyone pulls the thread.
-
-**Fix:** state it as the general claim it is, or replace it with the field's actual finding —
-*the expert could not state his own rule twice the same way, and nobody had noticed.* The
-second is stronger and it's true.
 
 ### Q24 — Half the vantage is undocumented: the twelve years of product management
 
@@ -67,12 +53,6 @@ the consolidated data model exists because it was done.
 Self-deprecation the other party disputes isn't humility, it's a different inaccuracy. The
 defensible sentence is sharper anyway: **it took six to seven weeks to see that the bet was
 wrong, and I was the only one placed to see it.**
-
-### Q18 — Seven months, not three
-
-The mission ran January–July 2026. Deck and abstract both say "3 months" — presumably the
-agent-shipping window inside it. Say which window it refers to, or say seven and put the agents
-inside.
 
 ---
 
@@ -180,12 +160,17 @@ lines, transitions. Ten minutes; saves the talk if Presenter View fails on stage
 
 ## ✅ Settled
 
+- **Q19 — Slide 15 is the field finding.** *The expert could not state his own rule twice the
+  same way, and nobody had noticed.* Not the borrowed "six people" anecdote.
+  ⚠️ live deck, thesis, Shift 3, and the published abstract still carry the old wording.
+- **Q18 — Seven months.** Slide 2 says seven months; the agents sit inside that window.
+  ⚠️ live deck and published abstract still say "3 months".
 - **Q1 — Agent count: 10+.** ⚠️ the live deck still shows 14 on slide 2.
 - **Q2 — Slot: 20 min + 5 min Q&A.** Allocation and cut order in [`../docs/narrative.md`](../docs/narrative.md#timing).
 - **Q3 — Anonymisation: yes, in this repo.** ⚠️ two speaker actions remain — the published
   abstract still names the company, and the client and the expert should hear the story from
   you before Barcelona.
-- **Q7 — Mission timeline** — dated; only Q18 remains.
+- **Q7 — Mission timeline** — dated. Duration settled by Q18 (seven months).
 - **Q8 — Is "six people" literal?** Superseded by Q19: it isn't from the field at all.
 - **Q11 — Earlier preparation conversations** — found, mined, reusable residue in
   [`spare-parts.md`](spare-parts.md). ⚠️ one organisation was unreachable (HTTP 403); if

@@ -6,6 +6,29 @@ Only decisions that affect the talk. Repository plumbing isn't recorded here.
 
 ---
 
+## Slide 15 carries the field finding, not the borrowed anecdote
+
+Decided 2026-08-24. Q19.
+
+*"Six people who disagreed on what a good deal was"* is not first-hand. It was second-hand
+material wearing the clothes of testimony. In a talk about judging your own output, that is
+the slide that costs the room.
+
+**Replacement, from the field:** *the expert could not state his own rule twice the same way,
+and nobody had noticed.* Slides 13–14 already set it up. The structural claim — alignment did
+not compress — still holds; it no longer borrows a scene that didn't happen.
+
+Live deck and any leftover "six people" wording in the thesis, Shift 3, and the published
+abstract are a consistency pass, not a re-opening of the call.
+
+## Seven months, not three
+
+Decided 2026-08-24. Q18.
+
+The mission ran January–July 2026. Slide 2 (and the abstract, when it can be updated) say
+**seven months**. The 10+ agents sit inside that window. "3 months" was the shipping slice
+and it read as the whole mission.
+
 ## Shift 4 dropped — the fourth slot is open
 
 *Freeze the surface so people can build habits* is out. It was the only one of the four that

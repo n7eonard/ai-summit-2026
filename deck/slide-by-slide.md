@@ -14,9 +14,8 @@ Verbatim transcription of the current draft (36 slides), mapped to the documenta
 **When anyone can build, the person who decides what to build becomes the bottleneck**
 Nicolas Léonard · AI Summit Barcelona · 22 September 2026
 
-**2** — 10+ production AI agents. 3 months. One person.
-> ⚠️ **the live deck still says "14" — correct it.** Resolved 2026-08-24 in favour of the
-> submitted abstract's "10+". See [`../meta/open-questions.md`](../meta/open-questions.md#agent-count)
+**2** — 10+ production AI agents. **Seven months.** One person.
+> ⚠️ **the live deck still says "14" and "3 months".** Q1: 10+. Q18 (2026-08-24): seven months.
 
 **3** — The same quarter — the expert whose job I was automating was still doing it by hand.
 
@@ -62,8 +61,9 @@ analyse. My job: automate the decision.
 
 **14** — You cannot automate a decision your expert can't state twice the same way.
 
-**15** — The constraint was never capacity. It was six people who disagreed on what a good
-deal was. There is no prompt for that.
+**15** — The constraint was never capacity. The expert could not state his own rule twice
+the same way, and nobody had noticed. There is no prompt for that.
+> ⚠️ **the live deck still says "six people who disagreed".** Q19, 2026-08-24.
 
 **16** — Alignment lives in Slack threads and hallway conversations. It is never written
 down. So there is no corpus to learn from.
