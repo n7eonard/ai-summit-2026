@@ -4,6 +4,17 @@ Choices made while building this library, and why. New entries go on top.
 
 ---
 
+## 2026-08-24 — Working sessions continue in Grok
+
+The library was bootstrapped in Claude Code. From this point, preparation continues in Grok
+against the same remote (`n7eonard/ai-summit-2026`), with the same house rules. The working
+notes now live in both [`AGENTS.md`](../AGENTS.md) and [`CLAUDE.md`](../CLAUDE.md) so either
+tool can pick the repo up.
+
+Nothing about the argument, the evidence bar, or the anonymisation policy changes.
+
+---
+
 ## 2026-08-24 — History recovered, timing fixed
 
 **The preparation history is now a first-class file**, not a footnote.

@@ -21,6 +21,7 @@ is what stops it being re-tried.
 | **Jun 2026** | Design and role-archetype work continues around the deck |
 | **~Jul–Aug 2026** | Rebuild into the current 36-slide, four-act Google Slides deck |
 | **24 Aug 2026** | This repository |
+| **24 Aug 2026 (later)** | Working sessions switch from Claude Code to Grok. Same library, same rules. |
 
 ---
 
