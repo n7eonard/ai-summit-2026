@@ -68,5 +68,5 @@ instrumentation is what tells you which of the eight mattered.
 
 ## Related
 
-[Shift 4](04-freeze-the-surface.md) — often the reason adoption fails isn't the tool, it's
-that the tool changed shape before anyone could learn it.
+[Shift 1](01-split-the-role.md) — the reason nobody challenged the enthusiasm is the same
+reason the role collapsed: one person held both jobs.

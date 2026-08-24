@@ -22,8 +22,9 @@ enthusiasm.
 true and useful but it was change management — it would have sat just as well in a talk about
 something else, which is exactly what the relevance filter is there to catch.
 
-The retired shift is kept at [`04-freeze-the-surface.md`](04-freeze-the-surface.md). Nothing in
-it is wrong; it just isn't this talk. Some of it may be reusable in whatever fills the slot.
+Nothing in it was wrong; it just isn't this talk. It is out of the repo — the reasoning is in
+[`../../meta/decisions.md`](../../meta/decisions.md) and git history has the page if it's ever
+wanted back.
 
 **What should fill it.** The strongest candidate isn't a new idea — it's the half of the
 vantage that isn't written down yet: the contrast with twelve years where deciding and

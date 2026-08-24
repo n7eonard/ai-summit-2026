@@ -100,7 +100,7 @@ The middle is where work dies.
 ~~**27** — A tool that enables 100% of the job, that nobody knows how to use, is worth zero.~~
 > ⛔ **CUT 2026-08-24 — remove these two slides from the live deck.** Change management, not
 > this talk's claim. ~70 seconds returns to the budget. The slot may be refilled later.
-> → [retired page](../docs/shifts/04-freeze-the-surface.md) · [Q25/Q26](../meta/open-questions.md)
+> → [Q25/Q26](../meta/open-questions.md)
 
 ---
 
