@@ -57,6 +57,7 @@ The long version: [`docs/thesis.md`](docs/thesis.md).
 | [`talk/abstract.md`](talk/abstract.md) | Official abstract, session metadata, speaker info |
 | [`meta/history.md`](meta/history.md) | How the talk got here — what it used to be, and what was cut |
 | [`meta/origin-april-2026.md`](meta/origin-april-2026.md) | The full record of the conversation it all started from |
+| [`meta/sources-swept.md`](meta/sources-swept.md) | Every source checked, and what could not be reached |
 | [`meta/`](meta/) | Open questions and the decisions log |
 
 ## Status

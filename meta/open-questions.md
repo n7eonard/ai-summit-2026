@@ -6,11 +6,67 @@ open until September.
 **Legend:** 🔴 blocking · 🟠 should be resolved · 🟡 nice to have
 
 **Status 2026-08-24:** Q1, Q2, Q11, Q12 resolved · Q3 policy set, two speaker actions remain ·
-Q13–Q17 opened by the recovered history. **Q16 is the most actionable of them.**
+Q13–Q17 opened by the recovered history · **Q18–Q23 opened by the REX, and they are the
+serious ones — several things currently on slides are contradicted by the speaker's own
+retrospective.** Start there.
 
 ---
 
 ## 🔴 Blocking
+
+### Q18 — The mission was seven months, not three
+
+The REX covers **January to July 2026**. The deck and the submitted abstract both say
+"3 months".
+
+Three months is presumably the agent-shipping window inside a seven-month mission — which is
+fine, and arguably more impressive stated that way. But as written, slide 2 invites a listener
+who knows the engagement to hear a longer mission compressed into a better-sounding number.
+
+Say which window "3 months" refers to, or say seven months and put the agents inside it.
+
+### Q19 — Slide 15's "six people who disagreed" is not supported by the field
+
+This is the most serious one.
+
+The REX describes a different problem: **data quality and trust in the tool**, one expert
+applying rules inconsistently, and an unspoken mismatch about the speaker's own role. It does
+not describe six stakeholders disagreeing about what a good deal was.
+
+"Six people in a room" traces back to the **April inputs** — a second-hand Anthropic anecdote,
+the joke that even with AGI you cannot align six stakeholders. It was never a field finding.
+
+The deck presents it as one. In a talk arguing for intellectual honesty about your own output,
+a borrowed anecdote wearing the clothes of first-hand testimony is the single most damaging
+thing in the deck if anyone pulls the thread.
+
+**Fix options:** state it as the general claim it is (and attribute it), or replace it with the
+field's actual finding — *the expert could not state his own rule twice the same way, and
+nobody had noticed.* The second is stronger, and it is true.
+
+### Q20 — Act 4 is mis-sequenced: the readout was the pivot, not the epilogue
+
+The deck implies the client's cold LLM readout came after the mission, as the reflective
+coda. **It happened at the end of March**, mid-mission, and the REX calls it the turning point
+— "il y a un avant et un après". Everything good in the mission came after it.
+
+The self-analysis of the prompt log is the genuinely post-mission piece; the readout is not.
+
+**This makes the story better, not worse.** As staged, Act 4 is a lesson learned too late. In
+reality it is the intervention that rescued the mission — which means the talk can end on
+something that *worked*, and the four shifts stop being regrets and become the things that
+turned it around.
+
+### Q21 — "For six weeks I built the wrong thing" is harsher than the client's own account
+
+The client explicitly contests it. His position in the REX: the rules work was the equivalent
+of a discovery, perhaps over-extended — nobody could state what data was needed to finance a
+project, and the consolidated data table exists because that work was done. Without it, he
+could not have briefed the extraction work at all.
+
+Self-deprecation that the other party disputes is not humility, it is a different inaccuracy.
+And the real finding is sharper anyway: **it took six to seven weeks to see that the problem
+was data quality, not analysis speed.** That is a better sentence and it is defensible.
 
 ### <a id="agent-count"></a>Q1 — How many agents? ✅ Resolved 2026-08-24
 
@@ -18,6 +74,9 @@ Q13–Q17 opened by the recovered history. **Q16 is the most actionable of them.
 
 **⚠️ One action remains:** the live deck still shows *14* on slide 2. Edit it.
 → [`deck/README.md`](../deck/README.md)
+
+*Note: the REX gives a different countable — 14 active business rules, 0 validated. If the
+"14" in the deck ever drifted from rules to agents, that is worth checking before the talk.*
 
 ### Q2 — What is the slot length? ✅ Resolved 2026-08-24
 
@@ -140,6 +199,40 @@ available in Act 2. Consider restoring the moment.
 It was the runner-up title in April and never made it into the deck. Slide 16 currently takes
 three sentences to say it. If the line is as good as it looked in April, it's a slide by
 itself.
+
+### Q23 — 🟠 The talk under-uses its best asset: the measurement was real
+
+Act 4 says "I analysed every prompt I sent and every message I wrote." The REX shows what that
+actually was, and it is far more substantial than the deck lets on:
+
+- **2,194 prompts** (2 Feb → 9 Jul) and **793 messages** across 10 channels (3 Jan → 26 Jul)
+- Two independent readings produced separately then crossed: **the factual** (3 git repos,
+  tickets, ~30 written pages) against **the felt** (prompts and messages). *The places where
+  they contradicted each other were the most instructive.*
+- An **assertiveness ratio** — phrasings that commit versus phrasings that solicit. In
+  February it measured **~10 in private working sessions and 0.14 in messages to the client
+  the same month.**
+- Documented limits: one month missing to a purged retention window, local history ending
+  before the mission did, and a written-only corpus that cannot see what moved to video.
+
+That February gap is the whole talk in one number: the same person, the same week, assertive
+alone and deferential in front of the client. It is a better slide than "I analysed my
+prompts", and the stated limits are what make it credible.
+
+**Recommendation: put one of these numbers on a slide.** It turns Act 4 from an anecdote into
+a method the audience could run on themselves on Monday — which is what the closing line is
+asking of them.
+
+### Q22 — 🟠 Slide 11 merges two different people
+
+Slide 11 says *"A CEO who decides"*. In the field there were two distinct roles: the client
+lead who commissioned and steered the work, and the **domain expert** whose financing
+decisions were being automated — the one who applied the same rule differently from case to
+case.
+
+Merging them costs the story its mechanism. The interesting thing is not that a CEO was
+inconsistent; it is that **the person whose judgement was being encoded was not the person who
+had commissioned the encoding**, so nobody was positioned to notice the rule wasn't stable.
 
 ### Q16 — 🟠 The engineer moment and the founder moment were never written
 

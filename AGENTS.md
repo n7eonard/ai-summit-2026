@@ -27,6 +27,8 @@ half-finished thoughts left unmarked, and unresolved items go in
 - [`meta/decisions.md`](meta/decisions.md) — what was already decided and why
 - [`meta/history.md`](meta/history.md) — what the talk used to be. **Read before proposing a
   structural change**: a different set of four shifts was already tried and replaced
+- [`meta/sources-swept.md`](meta/sources-swept.md) — what has and has not been searched.
+  **Check here before claiming something is not documented**
 - [`meta/origin-april-2026.md`](meta/origin-april-2026.md) — the origin conversation in full.
   Most obvious ideas were already had in April; several were tried and dropped for reasons
   worth knowing before re-proposing them

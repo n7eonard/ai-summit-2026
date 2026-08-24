@@ -3,9 +3,19 @@
 > The talk earns the right to its claim from one mission. This is that mission, in full.
 
 **What:** an AI proptech startup, real-estate financing.
-**Role:** freelance, solo build, Claude Code as the working environment.
-**Duration:** ~3 months, ending early August 2026.
+**Role:** freelance, solo, Claude Code as the working environment.
+**Duration:** **January to July 2026 — seven months.** *(The deck says "3 months", which is
+presumably the agent-shipping window inside it. → [Q18](../meta/open-questions.md))*
 **Output:** 10+ production AI agents shipped, alone.
+**Mandate:** automate the analysis of incoming projects, to clear a bottleneck observed on the
+analysis step at the end of Q4 2025.
+
+> **This page is now the weaker source.** A seven-month retrospective written by the speaker in
+> Notion — before and after the client debrief of 28 July — is more precise than anything here
+> or on a slide, and it contradicts parts of both. The corrections are below and in
+> [`meta/open-questions.md`](../meta/open-questions.md) Q18–Q23. The retrospective itself stays
+> private: it carries the client's candid self-assessment and a great deal of relational detail
+> about named people.
 
 > **On naming.** The company, its CEO and the domain expert are not named in this
 > repository, and the identifying detail has been kept out. What follows is about a
@@ -84,6 +94,51 @@ cost of six weeks. → [Shift 3](shifts/03-surface-disagreement.md)
 **Capability isn't adoption.** A tool that enables 100% of the job, that nobody knows how to
 use, is worth zero. And a surface that keeps improving is a surface nobody can build a habit
 on. → [Shift 4](shifts/04-freeze-the-surface.md)
+
+## What the retrospective corrects
+
+Five things the deck currently gets wrong or leaves out. Each is a live open question.
+
+**The real pivot was changing the problem, not the solution.** The bet was to encode the
+rules. What actually unblocked the mission, around March–April, was realising that **14 active
+rules with 0 validated were worthless while the data they evaluated was wrong.** The problem
+was never "we don't analyse fast enough" — it was data quality, and therefore trust in the
+tool. Everything that worked afterwards descends from that switch. The deck doesn't contain
+this at all, and it's the best product judgement in the whole mission.
+
+**The failure is overstated, and the client says so.** His position: the rules work was the
+equivalent of a discovery, perhaps over-extended. Nobody could state what data was needed to
+finance a project; the consolidated data table exists because that work was done. The honest
+version is not "I built the wrong thing for six weeks" but **"it took six to seven weeks to
+see that the problem was the data."** → [Q21](../meta/open-questions.md)
+
+**The cold readout happened at the end of March — mid-mission.** Not as an epilogue. The
+retrospective calls it the turning point: *there is a before and an after.* Assertiveness
+recovered, convictions came back, the work got better. → [Q20](../meta/open-questions.md)
+
+**Two people, not one.** The client lead who commissioned the work, and the domain expert
+whose financing decisions were being encoded — the one applying the same rule differently case
+to case. Slide 11 merges them. → [Q22](../meta/open-questions.md)
+
+**"Six people who disagreed" is not from this mission.** It traces to the April inputs — a
+second-hand anecdote. The field finding is different and better.
+→ [Q19](../meta/open-questions.md)
+
+### The measured version of the correlation
+
+The talk's sharpest line — *my highest-output week was the week I pushed back least* — is
+February, and it was measured, not remembered: an assertiveness ratio of **~10 in private
+working sessions against 0.14 in messages to the client in the same month.** Same person, same
+weeks. → [Q23](../meta/open-questions.md)
+
+### What worked, per the retrospective
+
+Absent from the deck, and it's what makes the speaker credible rather than merely
+self-critical: changing the problem rather than the solution; holding *no iteration without
+measurement* including against a direct request from the CEO; carrying the convergence work
+from decision record to production system, then to arbitration rules derived from **517 real
+decisions** plus a usage guide for handover; documenting systematically — *the only deliverable
+that doesn't get refactored*; and preparing the exit six weeks ahead with named successors.
 
 ## Honesty notes
 

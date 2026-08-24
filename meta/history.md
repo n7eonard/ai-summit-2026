@@ -139,9 +139,37 @@ Recorded here because they are still live, not historical:
    a human moment only for PMs. → Q16
 2. **Keep the field story to ~30% of stage time.** It's currently ~60%. → Q17
 
+## Where the current four shifts actually came from ✅
+
+**Not from a lost conversation. From the REX** — the seven-month retrospective written in
+Notion around the client debrief of 28 July, and completed after it.
+
+Each of the four appears there as a learning, in the speaker's own words, before it was ever a
+slide:
+
+| Shift | Its origin sentence in the REX |
+|---|---|
+| 1 — Split the role | *"Un rôle qu'on ne découpe pas se découpe tout seul, par défaut, vers ce que la personne sait faire de mieux."* And: *"Builder est mesurable, immédiat, et ne se discute pas — c'est exactement ce qui en fait un bon abri."* |
+| 2 — Instrument adoption | *"Un utilisateur interne qui se plaint est un bon utilisateur."* Plus the admission of six months steered on declared feeling with nothing instrumented |
+| 3 — Surface disagreement | *"Aller au bout, ou embarquer dès la genèse"* — and *"dire les désaccords quand ils arrivent"* |
+| 4 — Freeze the surface | *"Un outil qui permet 100 % du travail mais que personne ne sait exploiter vaut zéro"* |
+
+So the replacement wasn't a rewrite of April's advice. **April's four shifts were organisational
+recommendations assembled from research. The current four are the findings of an actual
+retrospective on an actual failure** — which is why they read as failure modes rather than
+advice, and why they land harder.
+
+That also explains the timing: they could not have existed before August, because the
+retrospective they come from could not have been written before the mission ended.
+
+**One consequence worth sitting with.** The REX contains material the deck still doesn't use —
+a measured method with real numbers, a correction to the story's sequence, and a finding the
+client himself disputes. The deck is currently a weaker version of a document that already
+exists. → [`open-questions.md`](open-questions.md) Q18–Q23.
+
 ## What is still not recovered
 
-The rebuild itself — April/May's seven sections into the current four acts, and the shift
-replacement — is not in any conversation found. It happened either directly in Google Slides
-or somewhere not indexed by search. The reconstruction above is inferred from the before and
-after, not from a record of the decision.
+The mechanics of the rebuild — how April/May's seven sections became the current four acts —
+are in no conversation found. Given that the shifts came from the REX, the most likely story
+is that the deck was rebuilt directly in Google Slides against it, in August. The section
+above is inferred from the before and after, not from a record of the decision.
