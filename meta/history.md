@@ -10,12 +10,16 @@ is what stops it being re-tried.
 
 ---
 
+The full record of the origin conversation — raw inputs, the four angles the speaker proposed
+himself, the original seven-part structure, and three warnings given at the time — is in
+[`origin-april-2026.md`](origin-april-2026.md).
+
 ## Timeline
 
 | When | What happened |
 |---|---|
 | **Dec 2025** | Earliest thinking on PM workflow under AI. Pre-dates the talk |
-| **7 Apr 2026** | Origin. Framing for the AI for Builders track, title options, first structure, **first set of four shifts** |
+| **7 Apr 2026** | **Origin.** Framing, title options, first structure, first set of four shifts → [full record](origin-april-2026.md) |
 | **30 Apr 2026** | Speaker profile and positioning rewritten for the conference |
 | **2 May 2026** | **First deck built** — 26 slides, PPTX, 7 sections. Visual identity fixed here |
 | **Jun 2026** | Design and role-archetype work continues around the deck |
@@ -126,6 +130,14 @@ dividers (01–04) descend directly from this.
   **Not yet done for the current 36-slide deck.**
 
 ---
+
+## Two April warnings that were never acted on
+
+Recorded here because they are still live, not historical:
+
+1. **One concrete moment per persona.** The talk addresses PMs, engineers and founders and has
+   a human moment only for PMs. → Q16
+2. **Keep the field story to ~30% of stage time.** It's currently ~60%. → Q17
 
 ## What is still not recovered
 

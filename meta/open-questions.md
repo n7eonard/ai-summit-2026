@@ -6,7 +6,7 @@ open until September.
 **Legend:** 🔴 blocking · 🟠 should be resolved · 🟡 nice to have
 
 **Status 2026-08-24:** Q1, Q2, Q11, Q12 resolved · Q3 policy set, two speaker actions remain ·
-Q13–Q15 opened by the recovered history.
+Q13–Q17 opened by the recovered history. **Q16 is the most actionable of them.**
 
 ---
 
@@ -140,6 +140,30 @@ available in Act 2. Consider restoring the moment.
 It was the runner-up title in April and never made it into the deck. Slide 16 currently takes
 three sentences to say it. If the line is as good as it looked in April, it's a slide by
 itself.
+
+### Q16 — 🟠 The engineer moment and the founder moment were never written
+
+Flagged in April, never done. The abstract promises to address "a PM, an engineer, or a
+founder"; the deck has exactly one concrete human moment, and it's the PM one (the client's
+feedback). An engineer sitting in that room has nothing to recognise themselves in.
+
+The April note said what they should be: for **engineers**, that they're being asked to do
+product work whether they signed up for it or not. For **founders**, the ratio math — your
+org chart is already wrong.
+
+Cheapest fix: one slide each in Act 3, attached to Shift 1 (which is where the role collapse
+already lives). → [`origin-april-2026.md`](origin-april-2026.md)
+
+### Q17 — 🟠 The talk is ~60% first-person. April said keep it to 30%
+
+The April warning: over-index on the field story and the talk becomes a case study instead of
+an industry thesis. The cold open, Act 2 and Act 4 are all first-person — roughly 60% of the
+slides.
+
+**Not necessarily wrong.** The external evidence in Act 1 carries the general claim, and Act 4
+is the best material in the talk precisely because it's personal. But the ratio drifted by a
+factor of two without anyone deciding to let it, and a room expecting an industry thesis can
+feel a case study coming. Worth one deliberate look. → [`origin-april-2026.md`](origin-april-2026.md)
 
 ### Q15 — Does the talk need the recovery, not just the failure?
 
