@@ -11,8 +11,8 @@ Track: AI for Builders
 
 ## Speaker
 
-**Nicolas Léonard**
-Experimenta · AI Product Partners — [experimenta.work](https://experimenta.work)
+**[Nicolas Léonard](https://www.linkedin.com/in/freelance-product-management/)**
+[Experimenta Studio](https://experimenta.work)
 
 ## Abstract (as submitted)
 

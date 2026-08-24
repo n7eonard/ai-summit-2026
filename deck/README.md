@@ -27,6 +27,8 @@ can read after the talk, and the one that survives if the Slides link ever break
 Open items on the deck specifically (full list in
 [`../meta/open-questions.md`](../meta/open-questions.md)):
 
+- **Slide 36** — ✏️ **attribution:** change "Experimenta · AI Product Partners" to
+  **Experimenta Studio**. It's the last thing the room sees.
 - **Slides 26–27** — ✏️ **cut them.** Shift 4 was dropped 2026-08-24 as off-thesis. Slide 19
   ("03 Four shifts") needs retitling, and ~70 seconds returns to the budget.
 - **Slide 2** — ✏️ **edit needed:** change *14* to *10+*, matching the submitted abstract.

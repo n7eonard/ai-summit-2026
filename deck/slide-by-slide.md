@@ -131,5 +131,7 @@ I analysed every prompt I sent and every message I wrote.
 **I think we're building the wrong thing.**
 
 **36** · *Thank you*
-Nicolas Léonard — Experimenta · AI Product Partners · [experimenta.work](https://experimenta.work)
-> ⚠️ this repository should appear here.
+Nicolas Léonard — Experimenta Studio · [experimenta.work](https://experimenta.work)
+> ⚠️ **two edits needed on the live deck:** the attribution still reads
+> "Experimenta · AI Product Partners" — align it to **Experimenta Studio**. And this
+> repository should appear here.
